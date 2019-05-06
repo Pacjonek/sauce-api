@@ -3,7 +3,6 @@
         "module": "commonjs",
         "esModuleInterop": true,
         "strict": true,
-        "sourceMap": true,
         "target": "esnext",
         "outDir": "./dist",
         "baseUrl": "./src",
